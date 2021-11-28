@@ -1,6 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 
+//template & logic
+// function App() {do something} <=> const App = () => {do something}
+//JSX
+
 function App() {
   return (
     <div className="App">

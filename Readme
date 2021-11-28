@@ -1,3 +1,16 @@
+++ Push your project to git
+1. git init
+2. git add .
+3. git commit -m 'init project' //init project is your commit name
+4. git remote add origin https://github.com/se7enntt/ReactHook.git
+5. git push -u origin master
+
+++ Clone project 
++ git clone https://github.com/se7enntt/ReactHook.git
+
+++ Git check out to another brand
++ git checkout -b dev
+
 + Create dicrectory and install app: (my is your app name)
 npx create-react-app my-app
 
