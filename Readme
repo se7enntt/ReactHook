@@ -1,2 +1,5 @@
-Create dicrectory and install app: (my is your app name)
++ Create dicrectory and install app: (my is your app name)
 npx create-react-app my-app
+
++ Start your app
+npm start
