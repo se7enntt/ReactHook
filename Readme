@@ -1,18 +1,60 @@
 ++ Push your project to git
+
 1. git init
 2. git add .
 3. git commit -m 'init project' //init project is your commit name
 4. git remote add origin https://github.com/se7enntt/ReactHook.git
 5. git push -u origin master
 
-++ Clone project 
-+ git clone https://github.com/se7enntt/ReactHook.git
+++ Clone project
+
+- git clone https://github.com/se7enntt/ReactHook.git
 
 ++ Git check out to another brand
-+ git checkout -b dev
 
-+ Create dicrectory and install app: (my is your app name)
-npx create-react-app my-app
+- git checkout -b dev
+- git push -u origin master //Push to the brand is dev
 
-+ Start your app
-npm start
+- Create dicrectory and install app: (my is your app name)
+  npx create-react-app my-app
+
+- Start your app
+  npm start
+
+1. What/Why React?
+   1.1 Technology: Hook vs Class components
+   Function component (short)/ class component (clear-long)
+   1.2 Setup Environment
+2. Creating a React Application - Hello world
+3. Components & Templates
+4. Dynamic Values in Templates
+5. Multiple Components (root)
+6. Adding styles
+7. Events
+8. Using State (useState hook)
+9. React Dev Tools
+10. Outputting Lists
+11. Props
+12. Reusing Components
+13. Functions as Props
+14. UseEffect Hook basic
+    14.1 UseEffect dependencies
+15. Using JSON Server
+16. Fetching data with useEffect
+17. Conditional Loading Message
+18. Handling Fetching Errors
+19. Making a Custom Hook
+    19.1 Recap
+20. The React Router
+21. Exact Match Routes/Links/Active Tabs
+22. useEffect Cleanup
+23. Route Parameters
+24. Programmatic Redirects
+25. Reusing Custom Hooks
+26. Controlled Inputs Forms
+
+27. Submit events - Validate data
+28. Making a POST Request/ Deleting data
+29. 404 Pages
+30. Project ‘Search with Youtube’
+31. What's next ?
