@@ -3,7 +3,7 @@ import './App.css';
 import Nav from './views/Nav.js';
 import { useState, useEffect } from 'react';
 import Todo from './views/Todo';
-
+import Covid from './views/Covid';
 
 // template + logic
 // JSX
@@ -65,19 +65,19 @@ const App = () => { //class
         <Nav />
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello world with React and {name}!</h1>
-        <Todo
+        <Covid />
+        {/* <Todo
           todos={todos}
           title={'All todos'}
           deleteDataTodo={deleteDataTodo}
         />
-
         <Todo
           todos={todos.filter(item => item.type === 'eric')}
           title={`Eric's todos`}
           deleteDataTodo={deleteDataTodo}
         />
         <input type="text" value={address} onChange={(event) => handleOnchangeInput(event)} />
-        <button type="button" onClick={(event) => handleEventClick(event)}>Click me</button>
+        <button type="button" onClick={(event) => handleEventClick(event)}>Click me</button> */}
       </header>
     </div>
   );
