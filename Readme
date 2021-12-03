@@ -49,7 +49,9 @@
 19. Making a Custom Hook
     19.1 Recap
 20. The React Router
+    npm install --save-exact react-router-dom@5.3.0
 21. Exact Match Routes/Links/Active Tabs
+    https://reactrouter.com/
 22. useEffect Cleanup
 23. Route Parameters
 24. Programmatic Redirects
