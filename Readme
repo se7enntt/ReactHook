@@ -57,9 +57,12 @@
 24. Programmatic Redirects
 25. Reusing Custom Hooks
 26. Controlled Inputs Forms
-
+    https://react-hook-form.com/
 27. Submit events - Validate data
+    https://jsonplaceholder.typicode.com/guide/
 28. Making a POST Request/ Deleting data
+    npm install --save-exact react-bootstrap@2.0.0
+    npm install --save-exact bootstrap@5.1.3
 29. 404 Pages
 30. Project ‘Search with Youtube’
 31. What's next ?
